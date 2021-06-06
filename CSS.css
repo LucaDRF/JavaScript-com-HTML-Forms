@@ -1,0 +1,37 @@
+body{
+    background-color:rgba(209, 207, 207, 0.527);
+}
+#superior{
+    background-color: coral;
+    padding: 30px;
+}
+#title{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.text{
+    margin-right: 40px;
+    margin-top: 50px;
+    font-size: 35px;
+    text-align:center;
+    list-style-type: none;
+    padding: 30px;
+    background-color: darksalmon;
+}
+#button{
+    background-color: lightseagreen;
+    border: 1px solid black;
+    font-size: 35px;
+    margin-top: 1px;
+    padding-right: 19px;
+    padding-left: 19px;
+    padding-bottom: 14px;
+}
+#linkM{
+    background-color: lightseagreen;
+    padding-right:130px;
+    padding-left: 130px;
+    padding-top: 1px;
+    padding-bottom: 15px;
+    border: 1px solid black;
+}
